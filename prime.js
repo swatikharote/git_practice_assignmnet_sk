@@ -6,7 +6,7 @@ function prime(num){
 		}
 	}
 	if(flag){
-		console.log('');
+		console.log('Prime');
 	}else{
 		console.log('Not Prime');
 	}
